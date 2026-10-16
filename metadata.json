@@ -1,0 +1,6 @@
+{
+  "name": "STEM Kincir Angin Listrik",
+  "description": "Aplikasi pembelajaran IPA Kelas 9 SMP materi Listrik Dinamis dan Proyek STEM Kincir Angin pembangkit listrik sederhana dengan login guru, rekap data 32 siswa, dan ekspor laporan PDF otomatis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
